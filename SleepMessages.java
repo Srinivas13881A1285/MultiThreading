@@ -1,5 +1,5 @@
 package docsexamples;
-
+//@author Srinivas Chintakindhi
 public class SleepMessages {
     public static void main(String args[])
             throws InterruptedException {
